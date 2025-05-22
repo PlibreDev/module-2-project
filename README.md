@@ -1,7 +1,7 @@
 # Rogue AI Uprising
 
 ## This is the greatly improved version of the turn based game I was assigned in the early days at Coding Temple. 
-## The original project was "Defeat the Evil Wizard". You'll find information about it at the bottom but this is the new and improved project I chose to do myself to retest my knowledge and challenge myself after being away from Python for some time.
+### The original project was "Defeat the Evil Wizard". You'll find information about it at the bottom. This is the new and improved project I chose to do myself to retest my knowledge and challenge myself after being away from Python for some time.
 
 Welcome to *Rogue AI Uprising*, a turn-based, text-driven showdown where you, a plucky cyber-operative, must unplug Nexus9— a rogue AI with a penchant for world domination. Built in Python with slick Object-Oriented Programming (OOP), this game pits you against a digital overlord in a neon-soaked battle of bits and bytes. Ready to hack, smash, or drone your way to victory? Boot up, operative!
 
